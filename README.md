@@ -26,6 +26,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Valhalla Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
 - [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
 - [Valhalla Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+- [TAL-Reverb-4 : high quality plate reverb with a vintage 80's character](https://tal-software.com/products/tal-reverb-4)
 
 ## Synths and samplers
 
