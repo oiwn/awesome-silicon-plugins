@@ -6,8 +6,8 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 
 - [`Dynamic range`](#dynamic-range)
 - [`EQ`](#eq)
-- [`Reverbs & Delays`](#reverbs-and-delays)
 - [`Effects`](#effects)
+- [`Synths and Samplers`][#synths-and-samplers]
 - [`Misc`](#misc)
 - [`To track`](#to-track)
 
@@ -20,3 +20,13 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 
 - [TDR Nova : parallel dynamic equalizer](https://www.tokyodawn.net/tdr-nova/)
 - [TDR : VOS SlickEQ](https://www.tokyodawn.net/tdr-vos-slickeq/)
+
+## Effects
+
+- [Valhalla Space Modulator](https://valhalladsp.com/shop/modulation/valhalla-space-modulator/)
+- [Valhalla Freq Echo](https://valhalladsp.com/shop/delay/valhalla-freq-echo/)
+- [Valhalla Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+
+## Synths and samplers
+
+- [Speedrum Lite : percussion MPC style sampler. ](https://www.apisoniclabs.com/freeware.html#speedrum-lite)
