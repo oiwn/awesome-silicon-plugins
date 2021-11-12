@@ -23,6 +23,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [TDR VOS SlickEQ : mixing/mastering equalizer](https://www.tokyodawn.net/tdr-vos-slickeq/)
 - [Voxengo Marvel GEQ : linear-phase 16-band graphic equalizer](https://www.voxengo.com/product/marvelgeq/)
 - [Voxengo Overtone GEQ : 7-band harmonic (overtone) graphic equalizer](https://www.voxengo.com/product/overtonegeq/)
+- [RS-W2395C : classic Baxandall EQ](https://fuseaudiolabs.com/#/pages/product?id=300965965)
 
 ## Effects
 
@@ -32,6 +33,9 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [TAL-Reverb-4 : high quality plate reverb with a vintage 80's character](https://tal-software.com/products/tal-reverb-4)
 - [Voxengo OldSkoolVerb : freeware algorithmic reverberation](https://www.voxengo.com/product/oldskoolverb/)
 - [Voxengo Stereo Touch : transforming a monophonic track into spacious stereophonic track by means of mid/side coding technique](https://www.voxengo.com/product/stereotouch/)
+- [VREV-666 : incredibly rare spring reverb from the 1960s](https://fuseaudiolabs.com/#/pages/product?id=301009892)
+- [TAL-Vocoder : vintage vocoder emulation with 11 bands](https://tal-software.com/products/tal-vocoder)
+- [TAL-Chorus-LX : Characteristics of the Juno-60 chorus](https://tal-software.com/products/tal-chorus-lx)
 
 ## Distortions and tapes
 
@@ -41,6 +45,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 ## Synths and samplers
 
 - [Speedrum Lite : percussion MPC style sampler](https://www.apisoniclabs.com/freeware.html#speedrum-lite)
+- [TAL-NoiseMaker : virtual analog synthesizer with low CPU usage](https://tal-software.com/products/tal-noisemaker)
 
 ## Misc
 
@@ -56,3 +61,4 @@ Would be nice to have native arm64 builds for apple silicon:
 
 - [Sitala : a free drum plugin](https://decomposer.de/sitala/)
 - [Vital: Spectral warping wavetable synth](https://vital.audio/#getvital)
+- [Frontier : self-adaptive versatile limiter](https://d16.pl/frontier)
