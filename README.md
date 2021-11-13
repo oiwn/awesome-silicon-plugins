@@ -36,6 +36,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [VREV-666 : incredibly rare spring reverb from the 1960s](https://fuseaudiolabs.com/#/pages/product?id=301009892)
 - [TAL-Vocoder : vintage vocoder emulation with 11 bands](https://tal-software.com/products/tal-vocoder)
 - [TAL-Chorus-LX : Characteristics of the Juno-60 chorus](https://tal-software.com/products/tal-chorus-lx)
+- [Tritik Krush : classic and weirdest bit-crushing effect](https://www.tritik.com/product/krush/)
 
 ## Distortions and tapes
 
@@ -54,6 +55,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Voxengo Sound Delay : auxiliary multi-channel signal delaying](https://www.voxengo.com/product/sounddelay/)
 - [Voxengo SPAN : real-time “fast Fourier transform” audio spectrum analyzer](https://www.voxengo.com/product/span/)
 - [Voxengo Correlometer : analog-style stereo multi-band correlation meter](https://www.voxengo.com/product/correlometer/)
+- [YOULEAN LOUDNESS METER 2](https://youlean.co/download-youlean-loudness-meter/)
 
 ## To track
 
