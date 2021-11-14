@@ -25,6 +25,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Voxengo Overtone GEQ : 7-band harmonic (overtone) graphic equalizer](https://www.voxengo.com/product/overtonegeq/)
 - [RS-W2395C : classic Baxandall EQ](https://fuseaudiolabs.com/#/pages/product?id=300965965)
 - [Sonimus SonEQ : equalizer plugin that takes parts from some vintage gear](https://sonimus.com/soneq-download)
+- [Analog Obsession SSQ : solid state equalizer](https://www.patreon.com/posts/ssq-54598496)
 
 ## Effects
 
