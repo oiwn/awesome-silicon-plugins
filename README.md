@@ -38,6 +38,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [TAL-Vocoder : vintage vocoder emulation with 11 bands](https://tal-software.com/products/tal-vocoder)
 - [TAL-Chorus-LX : Characteristics of the Juno-60 chorus](https://tal-software.com/products/tal-chorus-lx)
 - [Tritik Krush : classic and weirdest bit-crushing effect](https://www.tritik.com/product/krush/)
+- [Analog Obsession Room041 : room reverb plugin](https://www.patreon.com/posts/room041-55993203)
 
 ## Distortions and tapes
 
