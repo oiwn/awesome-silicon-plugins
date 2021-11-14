@@ -41,7 +41,8 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 ## Distortions and tapes
 
 - [Voxengo Boogex : guitar amplifier](https://www.voxengo.com/product/boogex/)
-- [Voxengo Tube Amp: applies tube triode-based overdrive ](https://www.voxengo.com/product/tubeamp/)
+- [Voxengo Tube Amp : applies tube triode-based overdrive ](https://www.voxengo.com/product/tubeamp/)
+- [Audiority L12X : Analog Modeled Solid State Amplifier Plugin](https://www.audiority.com/shop/l12x-solid-state-amplifier/)
 
 ## Synths and samplers
 
@@ -65,3 +66,4 @@ Would be nice to have native arm64 builds for apple silicon:
 - [Sitala : a free drum plugin](https://decomposer.de/sitala/)
 - [Vital: Spectral warping wavetable synth](https://vital.audio/#getvital)
 - [Frontier : self-adaptive versatile limiter](https://d16.pl/frontier)
+- [Analog Obsession : huge pack of free plugins](https://www.patreon.com/analogobsession/posts)
