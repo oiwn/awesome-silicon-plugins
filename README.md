@@ -44,6 +44,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Voxengo Boogex : guitar amplifier](https://www.voxengo.com/product/boogex/)
 - [Voxengo Tube Amp : applies tube triode-based overdrive ](https://www.voxengo.com/product/tubeamp/)
 - [Audiority L12X : Analog Modeled Solid State Amplifier Plugin](https://www.audiority.com/shop/l12x-solid-state-amplifier/)
+- [Analog Obsession BritBundle](https://www.patreon.com/posts/britbundle-47018376)
 
 ## Synths and samplers
 
