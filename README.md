@@ -71,3 +71,4 @@ Would be nice to have native arm64 builds for apple silicon:
 - [Vital: Spectral warping wavetable synth](https://vital.audio/#getvital)
 - [Frontier : self-adaptive versatile limiter](https://d16.pl/frontier)
 - [Analog Obsession : huge pack of free plugins](https://www.patreon.com/analogobsession/posts)
+- [Odin 2 : A Synth to Please the Gods](https://www.thewavewarden.com/odin2)
