@@ -53,6 +53,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Speedrum Lite : percussion MPC style sampler](https://www.apisoniclabs.com/freeware.html#speedrum-lite)
 - [TAL-NoiseMaker : virtual analog synthesizer with low CPU usage](https://tal-software.com/products/tal-noisemaker)
 - [OB-XD : based on the Oberheim OB-X](https://www.discodsp.com/obxd/)
+- [Spitfire Audio : sampler with libraries](https://labs.spitfireaudio.com/)
 
 ## Misc
 
