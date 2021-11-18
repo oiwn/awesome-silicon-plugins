@@ -50,6 +50,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Voxengo Tube Amp : applies tube triode-based overdrive ](https://www.voxengo.com/product/tubeamp/)
 - [Audiority L12X : Analog Modeled Solid State Amplifier Plugin](https://www.audiority.com/shop/l12x-solid-state-amplifier/)
 - [Analog Obsession BritBundle](https://www.patreon.com/posts/britbundle-47018376)
+- [PCM2612 Retro Decimator : Bitcrusher Emulation](https://www.reasonstudios.com/shop/rack-extension/pcm2612-retro-decimator-unit/)
 
 ## Synths and samplers
 
@@ -67,6 +68,12 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Voxengo SPAN : real-time “fast Fourier transform” audio spectrum analyzer](https://www.voxengo.com/product/span/)
 - [Voxengo Correlometer : analog-style stereo multi-band correlation meter](https://www.voxengo.com/product/correlometer/)
 - [YOULEAN LOUDNESS METER 2](https://youlean.co/download-youlean-loudness-meter/)
+- [Wave Observer : oscilloscope](https://pressplay-music.com/wave-observer/)
+
+## Bundles
+
+- [TBProAudio: Free Downloads](https://www.tbproaudio.de/download)
+- [DDMF: Freeware](https://ddmf.eu/freeware/)
 
 ## To track
 
