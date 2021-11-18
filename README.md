@@ -16,6 +16,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 
 - [TDR Kotelnikov : wideband dynamics processor](https://www.tokyodawn.net/tdr-kotelnikov/)
 - [TDR Molotok : musically characterful dynamics processor](https://www.tokyodawn.net/tdr-molotok/)
+- [Initial Clipper : Soft Clipper Plugin](https://initialaudio.com/product/initial-clipper-free-plugin/)
 
 ## Eq
 
@@ -40,6 +41,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [TAL-Chorus-LX : Characteristics of the Juno-60 chorus](https://tal-software.com/products/tal-chorus-lx)
 - [Tritik Krush : classic and weirdest bit-crushing effect](https://www.tritik.com/product/krush/)
 - [Analog Obsession Room041 : room reverb plugin](https://www.patreon.com/posts/room041-55993203)
+- [BABY Audio: Freebies (textures generator, chorus, delay)](https://babyaud.io/freebies)
 
 ## Distortions and tapes
 
