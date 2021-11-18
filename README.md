@@ -57,6 +57,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [TAL-NoiseMaker : virtual analog synthesizer with low CPU usage](https://tal-software.com/products/tal-noisemaker)
 - [OB-XD : based on the Oberheim OB-X](https://www.discodsp.com/obxd/)
 - [Spitfire Audio : sampler with libraries](https://labs.spitfireaudio.com/)
+- [FM Plugin Synth](https://github.com/asb2m10/dexed/releases)
 
 ## Misc
 
