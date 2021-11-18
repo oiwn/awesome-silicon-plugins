@@ -42,6 +42,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Tritik Krush : classic and weirdest bit-crushing effect](https://www.tritik.com/product/krush/)
 - [Analog Obsession Room041 : room reverb plugin](https://www.patreon.com/posts/room041-55993203)
 - [BABY Audio: Freebies (textures generator, chorus, delay)](https://babyaud.io/freebies)
+- [Yoin : distorted, effected reverb](https://www.owlolantern.com/releases/yoin)
 
 ## Distortions and tapes
 
