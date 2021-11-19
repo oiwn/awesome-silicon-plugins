@@ -10,6 +10,8 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [`Distortions and tapes`](#distortions-and-tapesr)
 - [`Synths and Samplers`](#synths-and-samplers)
 - [`Misc`](#misc)
+- [`Bundlers`](#bundles)
+- [`Non free`](#non-free)
 - [`To track`](#to-track)
 
 ## Dynamic range
@@ -74,6 +76,9 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 
 - [TBProAudio: Free Downloads](https://www.tbproaudio.de/download)
 - [DDMF: Freeware](https://ddmf.eu/freeware/)
+
+## Non Free
+- [Klevgrand](https://klevgrand.se/products)
 
 ## To track
 
