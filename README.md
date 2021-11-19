@@ -53,6 +53,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Audiority L12X : Analog Modeled Solid State Amplifier Plugin](https://www.audiority.com/shop/l12x-solid-state-amplifier/)
 - [Analog Obsession BritBundle](https://www.patreon.com/posts/britbundle-47018376)
 - [PCM2612 Retro Decimator : Bitcrusher Emulation](https://www.reasonstudios.com/shop/rack-extension/pcm2612-retro-decimator-unit/)
+- [FreeAMP : sound of tape and tube saturation at the same time](https://klevgrand.se/products/freeamp)
 
 ## Synths and samplers
 
