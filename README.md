@@ -10,7 +10,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [`Distortions and tapes`](#distortions-and-tapesr)
 - [`Synths and Samplers`](#synths-and-samplers)
 - [`Misc`](#misc)
-- [`Bundlers`](#bundles)
+- [`Bundles`](#bundles)
 - [`Non free`](#non-free)
 - [`To track`](#to-track)
 
@@ -45,6 +45,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Analog Obsession Room041 : room reverb plugin](https://www.patreon.com/posts/room041-55993203)
 - [BABY Audio: Freebies (textures generator, chorus, delay)](https://babyaud.io/freebies)
 - [Yoin : distorted, effected reverb](https://www.owlolantern.com/releases/yoin)
+- [U-HE Protoverb: prototype reverb](https://u-he.com/products/protoverb/)
 
 ## Distortions and tapes
 
@@ -61,7 +62,10 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [TAL-NoiseMaker : virtual analog synthesizer with low CPU usage](https://tal-software.com/products/tal-noisemaker)
 - [OB-XD : based on the Oberheim OB-X](https://www.discodsp.com/obxd/)
 - [Spitfire Audio : sampler with libraries](https://labs.spitfireaudio.com/)
-- [FM Plugin Synth](https://github.com/asb2m10/dexed/releases)
+- [Dexed : FM Plugin Synth](https://github.com/asb2m10/dexed/releases)
+- [U-HE Podolski : free, straightforward, CPU-efficient virtual analogue synthesizer](https://u-he.com/products/podolski/)
+- [U-HE Triple Cheese : truly unique freeware synthesizer, 3 comb filters for sound generation](https://u-he.com/products/triplecheese/)
+- [U-HE Zebralette : Easy spectral synth](https://u-he.com/products/zebralette/)
 
 ## Misc
 
