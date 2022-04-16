@@ -14,6 +14,10 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [`Non free`](#non-free)
 - [`To track`](#to-track)
 
+
+## Packs
+- [Analog Obsession](https://www.patreon.com/analogobsession)
+
 ## Dynamic range
 
 - [TDR Kotelnikov : wideband dynamics processor](https://www.tokyodawn.net/tdr-kotelnikov/)
@@ -46,6 +50,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [BABY Audio: Freebies (textures generator, chorus, delay)](https://babyaud.io/freebies)
 - [Yoin : distorted, effected reverb](https://www.owlolantern.com/releases/yoin)
 - [U-HE Protoverb: prototype reverb](https://u-he.com/products/protoverb/)
+- [Dragonfly Reverbs](https://michaelwillis.github.io/dragonfly-reverb/)
 
 ## Distortions and tapes
 
@@ -93,5 +98,4 @@ Would be nice to have native arm64 builds for apple silicon:
 - [Sitala : a free drum plugin](https://decomposer.de/sitala/)
 - [Vital: Spectral warping wavetable synth](https://vital.audio/#getvital)
 - [Frontier : self-adaptive versatile limiter](https://d16.pl/frontier)
-- [Analog Obsession : huge pack of free plugins](https://www.patreon.com/analogobsession/posts)
 - [Odin 2 : A Synth to Please the Gods](https://www.thewavewarden.com/odin2)
