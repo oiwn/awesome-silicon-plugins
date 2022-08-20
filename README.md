@@ -33,6 +33,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [RS-W2395C : classic Baxandall EQ](https://fuseaudiolabs.com/#/pages/product?id=300965965)
 - [Sonimus SonEQ : equalizer plugin that takes parts from some vintage gear](https://sonimus.com/soneq-download)
 - [Analog Obsession SSQ : solid state equalizer](https://www.patreon.com/posts/ssq-54598496)
+- [EQ1A Equalizer](https://www.mellowmuse.com/EQ1A)
 
 ## Effects
 
@@ -51,6 +52,7 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [Yoin : distorted, effected reverb](https://www.owlolantern.com/releases/yoin)
 - [U-HE Protoverb: prototype reverb](https://u-he.com/products/protoverb/)
 - [Dragonfly Reverbs](https://michaelwillis.github.io/dragonfly-reverb/)
+- [Convology XT is a free convolution reverb](https://wavearts.com/products/plugins/convology-xt/)
 
 ## Distortions and tapes
 
