@@ -53,6 +53,8 @@ List of awesome (mostly free) plugins with native arm64 apple slilcon (m1) binar
 - [U-HE Protoverb: prototype reverb](https://u-he.com/products/protoverb/)
 - [Dragonfly Reverbs](https://michaelwillis.github.io/dragonfly-reverb/)
 - [Convology XT is a free convolution reverb](https://wavearts.com/products/plugins/convology-xt/)
+- [SPACE Lite reverb](https://cymatics.fm/collections/plugins/products/space-lite-plugin)
+- [Origin vintage/lofi plugin created to make your samples sound like they’re straight from an old tape machine](https://cymatics.fm/collections/plugins/products/origin-vintage-plugin)
 
 ## Distortions and tapes
 
